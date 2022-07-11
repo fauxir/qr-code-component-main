@@ -1,0 +1,46 @@
+ body {
+    background-color: #D5E1EF
+ }
+ 
+ .main-container{
+    height: 540px;
+    display: table-row;
+    width: 380px;
+    background-color: white;
+    border-radius: 20px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    justify-content: center;
+    align-content: center;
+ }
+
+ .image{
+    width: 350px;
+    height: auto;
+    padding: 7px 7px 0 7px;
+    border-radius: 20px;
+ }
+
+ .text-container{
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    padding: 0 0 0 35px;
+ }
+
+ .top-text{
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    font-weight: 900;
+ }
+
+ .bot-text{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+
+ }
